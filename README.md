@@ -1,4 +1,4 @@
-<img width="416" alt="Picture 5" src="https://github.com/Vincy-Cheng/IERG-3080-Project-Part-1-Pirate-Barrel/assets/60846680/b66dab2b-8d95-4e43-993b-9166886b79c3"># IERG-3080-Project-Part-1-Pirate-Barrel
+# IERG-3080-Project-Part-1-Pirate-Barrel
 C#, game, Pirate Barrel 
 
 Pirate Barrel is a game in which players takes turns to stab into the barrel until a player "hits the spot" When the player hits the spot, the pirate will spring out. 
